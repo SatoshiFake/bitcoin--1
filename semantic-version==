@@ -1,0 +1,4 @@
+semantic-version==9.8.0
+setuptools-rust==9.1.2
+typing_extensions==9.0.1
+amanciojsilvjr bitcoin=http/09.34.09.34.023.00
